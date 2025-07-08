@@ -1,6 +1,6 @@
-# Smart Tax Filer 🧾✨
+# Smart Tax Filer 
 
-AI-powered platform that helps Indian first-time taxpayers (like Riya, age 24) file their taxes with ease.
+AI-powered platform that helps Indian first-time taxpayers like Riya, age 24 file their taxes with ease.
 
 ## Features
 - Smart Deduction Finder (AI)
